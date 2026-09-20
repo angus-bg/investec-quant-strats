@@ -1,0 +1,9 @@
+.env
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+cleaned_crm.csv
+*.log
